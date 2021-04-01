@@ -66,6 +66,8 @@ SVG Icons - svgicons.sparkk.fr
     font-family: "Alegreya", serif;
     font-size: 26px;
     font-weight: 400;
+    position: absolute;
+    margin-left: 3rem;
 }
 
 
@@ -588,10 +590,10 @@ button.owl-next {
     /* .container .slide-case .owl-lazy {
         width: 395px;
     } */
-    #btn-scrollDown a span {
-        /* left: 11px; */
-        margin-left: 10px;
-    }
+    /* #btn-scrollDown a span { */
+    /* left: 11px; */
+    /* margin-left: 10px;
+    } */
     /* Slide Case */
     .container .slide-case .owl-lazy {
         width: 549px;
@@ -615,9 +617,9 @@ button.owl-next {
     .slide-case button.owl-next span {
         opacity: 1 !important;
     }
-    .slide-case #btn-scrollDown a span {
+    /* .slide-case #btn-scrollDown a span {
         left: 11px;
-    }
+    } */
     /* Slide Case */
     /*  */
     /* Slide Kaos */
@@ -643,7 +645,7 @@ button.owl-next {
     .slide-kaos button.owl-next span {
         opacity: 1 !important;
     }
-    .slide-kaos #btn-scrollDown a span {
+    /* .slide-kaos #btn-scrollDown a span {
         left: 11px;
-    }
+    } */
 }
